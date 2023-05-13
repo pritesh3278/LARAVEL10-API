@@ -23,5 +23,3 @@ Route::delete("students/{id}/delete",[StudentController::class,'destroy']);
 
 
 
-
-
